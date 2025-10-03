@@ -2,7 +2,7 @@
 badly vibe coded arkanoid
 
 install dependencies:
-  npm install
+>npm install
 
 build the game:
-  npm run build
+>npm run build
