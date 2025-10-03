@@ -1,5 +1,5 @@
 # vibearkanoid
-badly vibe coded arkanoid
+badly vibe coded arkanoid (deepseek)
 
 install dependencies:
 >npm install
